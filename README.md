@@ -13,10 +13,10 @@ This extension allows you to add reminders directly in your browser and get noti
 ## 📥 Installation (for Developers)
 
 1. Download the project:  
-   - [Click here to download ZIP](https://harshraja45.github.io/Task-Reminder-Tool/demo.html)  
-   - Or clone it:
-     ```bash
-     git clone https://github.com/harshraja45/Task-Reminder-Tool.git
+ - [Click here to download ZIP](https://harshraja45.github.io/Task-Reminder-Tool/demo.html)  
+ - Or clone it:
+   ```bash
+  git clone https://github.com/harshraja45/Task-Reminder-Tool.git
      ```
 
 2. Open **Google Chrome** and go to:  
