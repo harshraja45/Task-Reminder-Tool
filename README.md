@@ -6,7 +6,7 @@ This extension allows you to add reminders directly in your browser and get noti
 ---
 
 ## 🚀 Live Demo Page
-👉 [View on GitHub Pages](https://harshraja45.github.io/Task-Reminder-Tool/demo.html)
+👉 [View on GitHub Pages](https://harshraja45.github.io/Task-Reminder-Tool/)
 
 ---
 
